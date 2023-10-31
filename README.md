@@ -1,4 +1,4 @@
-# ticket-id-gen Documentation
+# Ticket ID Generator
 
 **ticket-id-gen** is a lightweight Node.js package designed to generate sophisticated and unique ticket IDs for managing customer service tickets effectively.
 
