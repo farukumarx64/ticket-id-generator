@@ -1,12 +1,13 @@
 {
   "name": "ticket-id-gen",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Generate sophisticated ticket IDs for customer service management.",
   "main": "ticket-generator.js",
   "dependencies": {
     "crypto": "^1.0.1",
     "uuid": "^8.3.2"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/farukumarx64/ticket-id-generator.git"
