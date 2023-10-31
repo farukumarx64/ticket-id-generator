@@ -1,0 +1,10 @@
+{
+  "name": "ticket-generator",
+  "version": "1.0.0",
+  "description": "Generate sophisticated ticket IDs for customer service management.",
+  "main": "ticket-generator.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "uuid": "^8.3.2"
+  }
+}
