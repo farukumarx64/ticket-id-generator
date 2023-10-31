@@ -4,7 +4,7 @@
 
 ## Installation
 
-To install the package, use npm or yarn:
+To install the package:
 
 ```bash
 npm install ticket-id-gen
