@@ -1,6 +1,6 @@
 {
   "name": "ticket-id-gen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate sophisticated ticket IDs for customer service management.",
   "main": "ticket-generator.js",
   "dependencies": {
